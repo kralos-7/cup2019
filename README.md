@@ -2,7 +2,7 @@
 Código en C Standard
 --------------------------------
 
-Concurso Umarino de Programaciòn
+Concurso Umarino de Programación ver. 2019
 
 --------------------------------
 Autor: Caros Rojas-Sánchez
